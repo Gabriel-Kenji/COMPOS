@@ -1,0 +1,13 @@
+{
+    "name": "gabriel-kenji/base",
+    "description": "base",
+    "type": "library",
+    "require": {
+        "gabriel-kenji/func": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "GabrielKenji\\Base\\": "./"
+        }
+    }
+}

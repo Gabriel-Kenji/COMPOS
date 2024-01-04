@@ -1,0 +1,10 @@
+{
+    "name": "gabriel-kenji/func",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "GabrielKenji\\Func\\": "./"
+        }
+    }
+}
